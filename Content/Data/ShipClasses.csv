@@ -1,0 +1,14 @@
+Name,ShipClass,DisplayName,MaxSpeedKnots,SensorCapacity,CrewCapacity,FuelCapacityUnits,MaintenanceDemand,CargoCapacityUnits,CommunicationsRangeKm,DefaultMissionRole,ConstructionCost,ConstructionDays
+CommandShip_01,CommandShip,"Meridian-class Command Ship",26,1.4,340,2200,1.6,600,300,"Fleet Command",1800,120
+Frigate_01,FrigateLike,"Halcyon-class Frigate",30,1.0,140,1000,1.0,200,150,"General Purpose",600,45
+Destroyer_01,DestroyerLike,"Vanguard-class Destroyer",32,1.2,220,1400,1.3,260,180,"Escort",950,60
+Cruiser_01,CruiserLike,"Aegis-class Cruiser",29,1.3,300,1800,1.4,350,220,"Area Defense",1400,90
+Carrier_01,CarrierLikePlatform,"Horizon-class Platform",24,1.1,500,3000,1.8,700,320,"Air Operations",2600,150
+Submarine_01,Submarine,"Nautilus-class Submarine",22,0.9,90,700,1.2,80,60,"Recon/Silent Ops",1300,100
+Corvette_01,Corvette,"Osprey-class Corvette",34,0.8,60,500,0.8,90,120,"Patrol",350,30
+PatrolCraft_01,PatrolCraft,"Sentinel Patrol Craft",36,0.7,30,300,0.6,50,100,"Coastal Patrol",180,20
+Amphibious_01,AmphibiousSupport,"Tidewalker Support Ship",20,0.7,200,1200,1.1,500,150,"Amphibious Support",900,75
+Logistics_01,LogisticsShip,"Steadfast Logistics Ship",18,0.6,120,1500,0.9,900,140,"Resupply",700,55
+Research_01,ResearchVessel,"Meridian Explorer",21,1.0,80,900,0.9,300,160,"Scientific Research",650,50
+Rescue_01,RescueVessel,"Lifeline-class Rescue Ship",23,0.8,70,800,0.8,150,170,"Search & Rescue",580,40
+DroneCarrier_01,DroneCarrier,"Falconer Drone Carrier",25,1.1,110,1000,1.0,220,200,"Drone Operations",1050,70
